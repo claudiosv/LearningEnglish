@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Scoreboards>
+    <Scoreboard nickname="wup">
+        <QuestionsShown count="9"/>
+        <QuestionsCorrect count="1"/>
+        <TimeSpent count="57"/>
+        <WrongQuestions>
+            <Question id="9"/>
+            <Question id="24"/>
+            <Question id="4"/>
+            <Question id="2"/>
+            <Question id="7"/>
+        </WrongQuestions>
+    </Scoreboard>
+    <Scoreboard nickname="test">
+        <QuestionsShown count="19"/>
+        <QuestionsCorrect count="3"/>
+        <TimeSpent count="95"/>
+        <WrongQuestions>
+            <Question id="22"/>
+            <Question id="25"/>
+        </WrongQuestions>
+    </Scoreboard>
+</Scoreboards>

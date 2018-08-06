@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Questions>
+    <Question id="17">
+        <Sentence word="escape">There is no escape!</Sentence>
+        <Meanings>
+            <Meaning>To avoid the notice of somebody; to pass unobserved</Meaning>
+            <Meaning>Leakage, as a water or gas, from a pipeor storage container</Meaning>
+            <Meaning correct="true">To flee or get away from danger, regain liberty</Meaning>
+            <Meaning>Avoiding reality; reading a book/watching TV to escape the reality</Meaning>
+            <Meaning>a mistake, an oversight; be more careful, to avoid such escapes</Meaning>
+        </Meanings>
+        <Incorrect count="2"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="7">
+        <Sentence word="admire">To wonder at Pharaoh, and even admire at myself</Sentence>
+        <Meanings>
+            <Meaning>Power or permission to enter</Meaning>
+            <Meaning correct="true">To regard with wonder or astonishment</Meaning>
+            <Meaning>The granting of an argument</Meaning>
+            <Meaning>Implying an admission</Meaning>
+        </Meanings>
+        <Incorrect count="2"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="15">
+        <Sentence word="run">She runs a very succesfull business</Sentence>
+        <Meanings>
+            <Meaning>to move on your feet on a faster speed than walking</Meaning>
+            <Meaning correct="true">to organize or control something</Meaning>
+            <Meaning>to travel, move, or continue in a particular way:</Meaning>
+            <Meaning>to flow (liquid)</Meaning>
+            <Meaning>to operate</Meaning>
+        </Meanings>
+        <Incorrect count="1"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="24">
+        <Sentence word="model">Gisele Bündchen is the most payed model in the world.</Sentence>
+        <Meanings>
+            <Meaning>something that a copy can be based on because it is an extremely good example of its type</Meaning>
+            <Meaning correct="true">a person who wears clothes so that thay can be photographed or shown to possible buyers, o a person who is emplyed to be photographed or painted</Meaning>
+            <Meaning>a particular type of machine, especially a car, that is slightly different from machines of the same type</Meaning>
+            <Meaning>something that represents another thing, either as a physical object that is usually smaller than the real object, or a simple description that can be used in calculations.</Meaning>
+            <Meaning>to wear fashinable clothes, jewellery, etc. in order to advertise them.</Meaning>
+        </Meanings>
+        <Incorrect count="3"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="27">
+        <Sentence word="catch ">We always catch each other's eyes</Sentence>
+        <Meanings>
+            <Meaning>Something desirable to be caught</Meaning>
+            <Meaning>To lay hold on</Meaning>
+            <Meaning>To seize after pursuing, to arrest</Meaning>
+            <Meaning correct="true">To engage</Meaning>
+            <Meaning>To take or receive</Meaning>
+        </Meanings>
+        <Incorrect count="1"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="3">
+        <Sentence word="storm">There's a storm coming</Sentence>
+        <Meanings>
+            <Meaning>a violent military assault on a fortified place, strong position, or the like. </Meaning>
+            <Meaning>a violent outburst or outbreak of expression:.</Meaning>
+            <Meaning correct="true">a disturbance of the normal condition of the atmosphere, manifesting itself by winds of unusual force or direction, often accompanied by rain, snow, hail, thunder, and lightning, or flying sand or dust. </Meaning>
+            <Meaning>A heavy shower of objects, such as bullets or missiles.</Meaning>
+        </Meanings>
+        <Incorrect count="1"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="12">
+        <Sentence word="band">Tom plays clarinet in the school band.</Sentence>
+        <Meanings>
+            <Meaning>A belt or strap.</Meaning>
+            <Meaning>A space between elevated lines or ribs, as of the fruits of umbelliferous plants.</Meaning>
+            <Meaning>A linen collar or ruff worn in the 16th and 17th centur</Meaning>
+            <Meaning correct="true">A number of musicians who play together upon portable musical instruments, especially those making a loud sound, as certain wind instruments (trumpets, clarinets, etc.), and drums, or cymbals.</Meaning>
+            <Meaning>A company of persons united in any common design, especially a body of armed men.</Meaning>
+        </Meanings>
+        <Incorrect count="1"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="23">
+        <Sentence word="rest">Justin says that he prefers the rest.</Sentence>
+        <Meanings>
+            <Meaning correct="true">the other things, people, or parts that remain or that have not been mentioned</Meaning>
+            <Meaning>a period of silence between musical notes</Meaning>
+            <Meaning>a period of time in which you can relax</Meaning>
+            <Meaning>an object that supports the weight of something:</Meaning>
+            <Meaning>things that are no longer useful</Meaning>
+        </Meanings>
+        <Incorrect count="1"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="2">
+        <Sentence word="plane">Michael you dog, take a plane to the kennel!</Sentence>
+        <Meanings>
+            <Meaning>a flat or level surface.</Meaning>
+            <Meaning>a surface generated by a straight line moving at a constant velocity with respect to a fixed point.</Meaning>
+            <Meaning>an area of a two-dimensional surface having determinate extension and spatial direction or position:</Meaning>
+            <Meaning>a level of dignity, character, existence, development, or the like:</Meaning>
+            <Meaning correct="true">an airplane or a hydroplane:</Meaning>
+        </Meanings>
+        <Incorrect count="2"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="22">
+        <Sentence word="view">The view from the vineyard is spectacular.</Sentence>
+        <Meanings>
+            <Meaning> extent or range of vision</Meaning>
+            <Meaning>the act of seeing or examining</Meaning>
+            <Meaning>a :  a mode or manner of looking at or regarding something b :  an opinion or judgment colored by the feeling or bias of its holder</Meaning>
+            <Meaning correct="true">scene, prospect</Meaning>
+            <Meaning>the foreseeable future </Meaning>
+        </Meanings>
+        <Incorrect count="1"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="25">
+        <Sentence word="connection">The connection between smoking and heart disease is well known.</Sentence>
+        <Meanings>
+            <Meaning correct="true">the state of being related to someone or something else</Meaning>
+            <Meaning>the act of joining or being joined to something else, or the part or process that makes this possible</Meaning>
+            <Meaning>the state of being joined or connected in some way</Meaning>
+            <Meaning> the way that two people can speak to each other by phone</Meaning>
+            <Meaning>a bus, train, plane, etc. that arrives at a time that allows passengers to get on after getting off another one, so that they can continue their journey</Meaning>
+        </Meanings>
+        <Incorrect count="1"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="13">
+        <Sentence word="mine">The blue car is mine.</Sentence>
+        <Meanings>
+            <Meaning>an excavation made in the earth for the purpose of extracting ores, coal, precious stones, etc.</Meaning>
+            <Meaning>a device containing a charge of explosive in a watertight casing, floating on or moored beneath the surface of the water for the purpose of blowing up an enemy ship that strikes it or passes close by it.</Meaning>
+            <Meaning correct="true">a form of the possessive case of I used as a predicate adjective</Meaning>
+            <Meaning>a subterranean passage made to extend under an enemy's works or position, as for the purpose of securing access or of depositing explosives for blowing up a military position.</Meaning>
+            <Meaning>an abundant source; store</Meaning>
+        </Meanings>
+        <Incorrect count="1"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="1">
+        <Sentence word="space">He said he needs more space. </Sentence>
+        <Meanings>
+            <Meaning>A continuous area or expanse which is free, available, or
+                unoccupied</Meaning>
+            <Meaning>The dimensions of height, depth, and width within which all
+                things exist and move. </Meaning>
+            <Meaning>An intervall of time (often used to suggest that
+                the time is short considering what has happend
+                or been achieved in it.)</Meaning>
+            <Meaning>The amount of paper used or needed
+                to write about a subject.</Meaning>
+            <Meaning correct="true">The freedom to live, think
+                and develop in a way
+                that suits one. </Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="4">
+        <Sentence word="cold">That day it was really cold.</Sentence>
+        <Meanings>
+            <Meaning>not showing kindness, love, or emotion</Meaning>
+            <Meaning>a common infection, especially in the nose and throat, that often causes a cough, a slight fever, and sometimes some pain in the muscles</Meaning>
+            <Meaning correct="true">cold weather or temperatures</Meaning>
+            <Meaning>Feeling no warmth, uncomfortably chilled</Meaning>
+            <Meaning>Chilled by refrigeration or ice</Meaning>
+        </Meanings>
+        <Incorrect count="1"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="5">
+        <Sentence word="date">You are late for your date!</Sentence>
+        <Meanings>
+            <Meaning>The name of a month or a year as specified
+                by a number.</Meaning>
+            <Meaning>A particular day or day when an event occured or will occure</Meaning>
+            <Meaning correct="true">A social or romantic appointment.</Meaning>
+            <Meaning>A period of time.</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="6">
+        <Sentence word="play">My cousin can play the piano.</Sentence>
+        <Meanings>
+            <Meaning>Engage in activity for enjoyment and recreation rather than a serious or practical purpose.</Meaning>
+            <Meaning>Take part in (a sport)</Meaning>
+            <Meaning>Represent (a character) in a theatrical performance or on film.</Meaning>
+            <Meaning correct="true">Perform on (a musical instrument)</Meaning>
+            <Meaning>Move lightly and quickly, so as to appear and disappear; flicker.</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="8">
+        <Sentence word="Deny">No one can deny that he is clever.</Sentence>
+        <Meanings>
+            <Meaning>To approve</Meaning>
+            <Meaning correct="true">To contradict</Meaning>
+            <Meaning>To announce</Meaning>
+            <Meaning>To exclude</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="1"/>
+    </Question>
+    <Question id="9">
+        <Sentence word="club">The Drama club meets every Thursday afternoon.</Sentence>
+        <Meanings>
+            <Meaning correct="true">An organization of people with a common purpose or interest, who meet regularly and take part in shared activities</Meaning>
+            <Meaning>A place that people go to in order to dance and drink in the evening</Meaning>
+            <Meaning>A long, thin stick used in golf to hit the ball</Meaning>
+            <Meaning>A heavy stick used as a weapon</Meaning>
+            <Meaning>One of the suits in a pack of playing cards comprising hearts, diamonds, spades, clubs</Meaning>
+        </Meanings>
+        <Incorrect count="1"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="10">
+        <Sentence word="administered">That doctor administered medicine to this patient.</Sentence>
+        <Meanings>
+            <Meaning>To manage or conduct.</Meaning>
+            <Meaning>To supply, to serve out.</Meaning>
+            <Meaning correct="true">To apply a dose as medicine or a remedy. </Meaning>
+            <Meaning>To tender, offer or present. (oath).</Meaning>
+            <Meaning>To settle.</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="11">
+        <Sentence word="aberration">Due to the phenomenon of aberration we don't see the true position of the stars.</Sentence>
+        <Meanings>
+            <Meaning>The act of wandering; deviation,especially from truth or moral rectitude, from the natural state or from a type</Meaning>
+            <Meaning>A partial alienation of reason.</Meaning>
+            <Meaning correct="true">A small periodical change of position of the stars and other heavenly bodies, due to the combined effect of the motion of light and the motion of the observer. Called annual aberration when the observer's motion is that of the earth in its orbit and dairy or diurnal aberration, when of the earth on its axis.</Meaning>
+            <Meaning>The convergence to different foci,by lens ot mirror, of rays of light emanating from one and the same point, or the deviation of such rays from a single focus.</Meaning>
+            <Meaning>The passage of blood or other fluid into parts not appropriate for it.</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="14">
+        <Sentence word="mark">You have good marks</Sentence>
+        <Meanings>
+            <Meaning correct="true">A number, letter, or symbol used to indicate various grades of academic achievement</Meaning>
+            <Meaning>A visible trace or impression, such as a line or spot</Meaning>
+            <Meaning>A target, an achievement</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="16">
+        <Sentence word="duck">The duck says quack</Sentence>
+        <Meanings>
+            <Meaning> A linen (or sometimes cotton) fabric, finer and lighter than
+                canvas, -- used for the lighter sails of vessels, the sacking of beds, and sometimes for men's clothing.</Meaning>
+            <Meaning>To thrust or plunge under water or other liquid and suddenly withdraw</Meaning>
+            <Meaning>To go under the surface of water and immediately reappear</Meaning>
+            <Meaning correct="true">Any bird of the subfamily Anatinæ, family Anatidæ.</Meaning>
+            <Meaning>to avoid or evade a blow, unpleasant task</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="18">
+        <Sentence word="hand">Would you like a hand carrying those bags?</Sentence>
+        <Meanings>
+            <Meaning>The part of the body at the end of the arm that is used for holding, moving, touching, and feeling things.</Meaning>
+            <Meaning>One of the long, thin pieces that point to the numbers on a clock or watch.</Meaning>
+            <Meaning correct="true">Help with doing something that needs a lot of effort.</Meaning>
+            <Meaning>Involvement in or influence over an event.</Meaning>
+            <Meaning>A unit for measuring the height of a horse up to its shoulder.</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="1"/>
+    </Question>
+    <Question id="19">
+        <Sentence word="cut">Your son has been cutting classes.</Sentence>
+        <Meanings>
+            <Meaning>To break the surface of something, or to divide or make something smaller, using a sharp tool, especially a knife.</Meaning>
+            <Meaning>To remove something from something else.</Meaning>
+            <Meaning correct="true">To not go, especially to a place where you should be.</Meaning>
+            <Meaning>To go through or across a place, especially in order to get somewhere quickly.</Meaning>
+            <Meaning>To Question music or speech on a Question.</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="20">
+        <Sentence word="sick">‘I'm absolutely sick of your moods’.</Sentence>
+        <Meanings>
+            <Meaning>Affected by physical or mental illness.</Meaning>
+            <Meaning>Feeling nauseous and wanting to vomit.</Meaning>
+            <Meaning correct="true">Intensely annoyed with or bored by (someone or something) as a result of having had too much of them.</Meaning>
+            <Meaning>having something unpleasant such as death or misfortune as its subject and dealing with it in an offensive way.</Meaning>
+            <Meaning>Excellent (informal)</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="21">
+        <Sentence word="sun">After every storm, the sun always shines.</Sentence>
+        <Meanings>
+            <Meaning>The star that is the central body of the solar system, around which the planets revolve and from which they receive light and heat: its mean distance from the earth is about 93 million miles (150 million km), its diameter about 864,000 miles (1.4 million km), and its mass about 330,000 times that of the earth; its period of surface rotation is about 26 days at its equator but longer at higher latitudes.</Meaning>
+            <Meaning>The sun considered with reference to its position in the sky, its visibility,the season of the year, the time at which or the place where it is seen,etc.</Meaning>
+            <Meaning>A self-luminous heavenly body; star.</Meaning>
+            <Meaning correct="true">Sunshine; the heat and light from the sun.</Meaning>
+            <Meaning>A figure or representation of the sun, as a heraldic bearing usuallysurrounded with rays and marked with the features of a human face.</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="26">
+        <Sentence word="break">I like to break.</Sentence>
+        <Meanings>
+            <Meaning>an interruption of continuity or uniformity.</Meaning>
+            <Meaning correct="true">a pause in work or during an activity or event.</Meaning>
+            <Meaning>separate or cause to separate into pieces
+                as a result of a blow, shock, or strain.</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="28">
+        <Sentence word="set">Always set goals.</Sentence>
+        <Meanings>
+            <Meaning>to put something in a particular place or position</Meaning>
+            <Meaning>If a story, film, etc. is set in a particular time or place, the action in it happens in that time or place</Meaning>
+            <Meaning correct="true">to establish or decide something</Meaning>
+            <Meaning>a part of a game of tennis or volleyball</Meaning>
+            <Meaning>to get something ready so that it comes into operation or can be used</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="29">
+        <Sentence word="codex">I will read a codex for my History research.</Sentence>
+        <Meanings>
+            <Meaning>A system of signals used to represent letters or numbers in transmitting messages</Meaning>
+            <Meaning correct="true">A book or a manuscript</Meaning>
+            <Meaning>A legal code</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+    <Question id="30">
+        <Sentence word="show">The waiter showed us to our table. </Sentence>
+        <Meanings>
+            <Meaning>to be easy to see or notice</Meaning>
+            <Meaning correct="true">to take someone somewhere by going there with them</Meaning>
+            <Meaning>to make it possible for something to be seen</Meaning>
+            <Meaning>a theatre performance or a television or radio programme that is entertaining rather than serious</Meaning>
+        </Meanings>
+        <Incorrect count="0"/>
+        <Correct count="0"/>
+    </Question>
+</Questions>
