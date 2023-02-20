@@ -13,9 +13,9 @@
         </WrongQuestions>
     </Scoreboard>
     <Scoreboard nickname="test">
-        <QuestionsShown count="19"/>
+        <QuestionsShown count="20"/>
         <QuestionsCorrect count="3"/>
-        <TimeSpent count="95"/>
+        <TimeSpent count="107"/>
         <WrongQuestions>
             <Question id="22"/>
             <Question id="25"/>
